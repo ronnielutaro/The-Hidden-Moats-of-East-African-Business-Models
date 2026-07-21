@@ -33,6 +33,21 @@ To quantitatively audit business models across the East African Community (EAC) 
 * **Allowed Values:** `B2B`, `B2C`, `B2B2C`
 * **Logic:** The primary customer base served by the commercial pipeline. `B2B2C` is highly prevalent in regional retail supply chain tech due to fragmented distribution networks.
 
+#### `industry_sector`
+* **Data Type:** Categorical
+* **Allowed Values:** `Fintech`, `Agtech / Food Logistics`, `Mobility / Transport`, `Healthtech`, `FMCG / Manufacturing`, `Proptech / E-commerce`, `E-commerce / Retail`
+* **Logic:** The primary macro-economic sector of operation.
+
+#### `founder_count`
+* **Data Type:** Integer
+* **Allowed Values:** Integer (1, 2, 3, 4+)
+* **Logic:** Count of co-founders present at firm inception.
+
+#### `target_income_tier`
+* **Data Type:** Categorical
+* **Allowed Values:** `Low Income (<150k UGX/mo)`, `Middle Income (150k-1M UGX/mo)`, `High Income (>1M UGX/mo)`, `B2B Institutional`
+* **Logic:** Economic purchasing power bracket of the target consumer or business customer (aligned with UBOS household surveys).
+
 ---
 
 ### 2. Financial Velocity & Scale Architecture

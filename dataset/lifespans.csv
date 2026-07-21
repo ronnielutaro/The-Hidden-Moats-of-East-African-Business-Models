@@ -1,18 +1,18 @@
-company_id,lifespan_years,survival_status,exit_outcome
-mtn_momo,15.0,Active,Active
-safeboda,9.0,Active,Active
-jesa_dairy,25.0,Active,Active
-lipa_later,7.0,Active,Active
-rocket_health,11.0,Active,Active
-jumia_ug,12.0,Active,Active
-copia_global,11.0,Failed,Shut Down
-mukwano,40.0,Active,Active
-kuzimba,4.0,Active,Active
-airtel_money,15.0,Active,Active
-tugende,12.0,Pivoted,Active
-m_kopa,15.0,Active,Active
-twiga_foods,12.0,Active,Active
-wasoko,10.0,Active,Active
-basigo,5.0,Active,Active
-sendy,9.0,Failed,Shut Down
-kopo_kopo,15.0,Active,Active
+company_id,lifespan_years,survival_status,exit_outcome,primary_failure_reason
+mtn_momo,15.0,Active,Active,N/A (Active)
+safeboda,9.0,Active,Active,N/A (Active)
+jesa_dairy,25.0,Active,Active,N/A (Active)
+lipa_later,7.0,Active,Active,N/A (Active)
+rocket_health,11.0,Active,Active,N/A (Active)
+jumia_ug,12.0,Active,Active,N/A (Active)
+copia_global,11.0,Failed,Shut Down,Runway Exhaustion / Illiquidity
+mukwano,40.0,Active,Active,N/A (Active)
+kuzimba,4.0,Active,Active,N/A (Active)
+airtel_money,15.0,Active,Active,N/A (Active)
+tugende,12.0,Pivoted,Active,Macro Currency Shock
+m_kopa,15.0,Active,Active,N/A (Active)
+twiga_foods,12.0,Active,Active,N/A (Active)
+wasoko,10.0,Active,Active,N/A (Active)
+basigo,5.0,Active,Active,N/A (Active)
+sendy,9.0,Failed,Shut Down,Disintermediation Churn
+kopo_kopo,15.0,Active,Active,N/A (Active)

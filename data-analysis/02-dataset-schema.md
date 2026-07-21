@@ -19,6 +19,9 @@ Defines the unchanging core attributes of each business entity.
 | **cold_chain_requirement** | boolean | | Requires continuous refrigeration for operations | `True`, `False` | `False` |
 | **disintermediation_risk** | categorical | | Risk of users taking transactions offline | `Low`, `Medium`, `High` (See Rubric) | `High` |
 | **pricing_strategy** | categorical | | Primary strategy used for setting price | `Value-Based`, `Cost-Plus`, `Underpricing` | `Underpricing` |
+| **industry_sector** | categorical | | Domain economic sector | `Fintech`, `Agtech / Food Logistics`, `Mobility / Transport`, `Healthtech`, `FMCG / Manufacturing`, `Proptech / E-commerce`, `E-commerce / Retail` | `Fintech` |
+| **founder_count** | integer | | Number of co-founders at founding | Integer (1, 2, 3, 4+) | `2` |
+| **target_income_tier** | categorical | | Target consumer/client economic bracket | `Low Income (<150k UGX/mo)`, `Middle Income (150k-1M UGX/mo)`, `High Income (>1M UGX/mo)`, `B2B Institutional` | `Low Income (<150k UGX/mo)` |
 
 ---
 
@@ -41,6 +44,8 @@ Defines the operational scale, route-to-market structure, and transaction charac
 | **last_mile_ownership** | categorical | | Physical transit fleet ownership status | `Proprietary Fleet`, `Aggregated 3PL`, `Merchant Pickup` | `Proprietary Fleet` |
 | **retail_distribution_reach**| ordinal | | Physical density scale of active retail outlets | `1` (Localized: <100), `2` (Moderate: 100-1000), `3` (Extensive: 1000+) | `3` |
 | **exclusivity_enforcement** | boolean | | Prevents distributors from selling competitor items | `True`, `False` | `False` |
+| **revenue_stream_count** | integer | | Total active monetized revenue streams | Integer (1, 2, 3+) | `2` |
+| **estimated_annual_revenue_range_usd** | categorical | | Estimated annual revenue bracket in USD | `<$100k`, `$100k-$1M`, `$1M-$5M`, `$5M-$20M`, `$20M+` | `$5M-$20M` |
 
 ---
 
@@ -53,6 +58,8 @@ Tracks firm duration, survival status, and exit characteristics.
 | **lifespan_years** | float | | Total years company has been operational | Decimal number | `9.0` |
 | **survival_status** | categorical | | Current state of the business entity | `Active`, `Failed`, `Pivoted` | `Active` |
 | **exit_outcome** | categorical | | Ultimate operational outcome | `Active`, `Acquired`, `Shut Down`, `IPO` | `Active` |
+| **primary_failure_reason** | categorical | | Primary driver of firm shutdown or restructuring | `N/A (Active)`, `Runway Exhaustion / Illiquidity`, `Unit Economics Collapse`, `Disintermediation Churn`, `Founder Conflict`, `Macro Currency Shock` | `Disintermediation Churn` |
+
 
 ---
 

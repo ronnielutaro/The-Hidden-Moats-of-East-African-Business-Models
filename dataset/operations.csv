@@ -1,18 +1,18 @@
-company_id,estimated_scale_tier,route_to_market_ops,distribution_channel_mix,supply_chain_visibility,switching_cost_moat,proximity_to_transaction,customer_retention_rate_annual,regulatory_barrier_level,gross_margin_tier,distributor_credit_terms,last_mile_ownership,retail_distribution_reach,exclusivity_enforcement
-mtn_momo,3,Asset-Light,Traditional Trade,5,True,5,95.0,5,High,Cash on Delivery (COD),Aggregated 3PL,3,False
-safeboda,3,Asset-Light,Traditional Trade,5,False,5,40.0,3,High,Cash on Delivery (COD),Aggregated 3PL,3,False
-jesa_dairy,3,Asset-Heavy,Modern Trade + Traditional Trade,1,False,3,90.0,5,Low,Long-term Credit (30+ Days),Proprietary Fleet,3,False
-lipa_later,2,Asset-Light,Modern Trade,5,True,5,85.0,3,High,Cash on Delivery (COD),Merchant Pickup,2,False
-rocket_health,2,Asset-Heavy,Direct-to-Consumer (D2C),5,True,5,65.0,5,High,Cash on Delivery (COD),Proprietary Fleet,2,False
-jumia_ug,2,Asset-Light,Modern Trade + Traditional Trade,3,False,5,35.0,3,High,Cash on Delivery (COD),Aggregated 3PL,3,False
-copia_global,3,Asset-Heavy,Traditional Trade,3,False,4,25.0,3,Medium,Cash on Delivery (COD),Proprietary Fleet,3,False
-mukwano,3,Asset-Heavy,B2B Wholesaler Push + Traditional Trade,1,False,3,95.0,5,Low,Long-term Credit (30+ Days),Proprietary Fleet,3,False
-kuzimba,1,Asset-Light,Traditional Trade,2,False,3,30.0,1,High,Cash on Delivery (COD),Aggregated 3PL,1,False
-airtel_money,3,Asset-Light,Traditional Trade,5,True,5,95.0,5,High,Cash on Delivery (COD),Aggregated 3PL,3,False
-tugende,2,Asset-Heavy,Traditional Trade,3,True,5,80.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,2,True
-m_kopa,3,Asset-Heavy,Traditional Trade,5,True,5,85.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,3,True
-twiga_foods,3,Asset-Heavy,Traditional Trade,4,False,4,75.0,3,Medium,Short-term Credit (1-7 Days),Proprietary Fleet,3,False
-wasoko,3,Asset-Heavy,Traditional Trade,4,True,4,80.0,1,Medium,Short-term Credit (1-7 Days),Proprietary Fleet,3,False
-basigo,2,Asset-Heavy,Traditional Trade,5,True,5,95.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,2,True
-sendy,3,Asset-Light,Traditional Trade,3,False,4,30.0,1,Medium,Cash on Delivery (COD),Aggregated 3PL,3,False
-kopo_kopo,3,Asset-Light,Traditional Trade,5,True,5,90.0,3,High,Short-term Credit (1-7 Days),Aggregated 3PL,3,False
+company_id,estimated_scale_tier,route_to_market_ops,distribution_channel_mix,supply_chain_visibility,switching_cost_moat,proximity_to_transaction,customer_retention_rate_annual,regulatory_barrier_level,gross_margin_tier,distributor_credit_terms,last_mile_ownership,retail_distribution_reach,exclusivity_enforcement,revenue_stream_count,estimated_annual_revenue_range_usd
+mtn_momo,3,Asset-Light,Traditional Trade,5,True,5,95.0,5,High,Cash on Delivery (COD),Aggregated 3PL,3,False,3,$20M+
+safeboda,3,Asset-Light,Traditional Trade,5,False,5,40.0,3,High,Cash on Delivery (COD),Aggregated 3PL,3,False,2,$5M-$20M
+jesa_dairy,3,Asset-Heavy,Modern Trade + Traditional Trade,1,False,3,90.0,5,Low,Long-term Credit (30+ Days),Proprietary Fleet,3,False,1,$20M+
+lipa_later,2,Asset-Light,Modern Trade,5,True,5,85.0,3,High,Cash on Delivery (COD),Merchant Pickup,2,False,2,$5M-$20M
+rocket_health,2,Asset-Heavy,Direct-to-Consumer (D2C),5,True,5,65.0,5,High,Cash on Delivery (COD),Proprietary Fleet,2,False,3,$1M-$5M
+jumia_ug,2,Asset-Light,Modern Trade + Traditional Trade,3,False,5,35.0,3,High,Cash on Delivery (COD),Aggregated 3PL,3,False,2,$5M-$20M
+copia_global,3,Asset-Heavy,Traditional Trade,3,False,4,25.0,3,Medium,Cash on Delivery (COD),Proprietary Fleet,3,False,2,$5M-$20M
+mukwano,3,Asset-Heavy,B2B Wholesaler Push + Traditional Trade,1,False,3,95.0,5,Low,Long-term Credit (30+ Days),Proprietary Fleet,3,False,2,$20M+
+kuzimba,1,Asset-Light,Traditional Trade,2,False,3,30.0,1,High,Cash on Delivery (COD),Aggregated 3PL,1,False,1,<$100k
+airtel_money,3,Asset-Light,Traditional Trade,5,True,5,95.0,5,High,Cash on Delivery (COD),Aggregated 3PL,3,False,3,$20M+
+tugende,2,Asset-Heavy,Traditional Trade,3,True,5,80.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,2,True,2,$5M-$20M
+m_kopa,3,Asset-Heavy,Traditional Trade,5,True,5,85.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,3,True,3,$20M+
+twiga_foods,3,Asset-Heavy,Traditional Trade,4,False,4,75.0,3,Medium,Short-term Credit (1-7 Days),Proprietary Fleet,3,False,2,$20M+
+wasoko,3,Asset-Heavy,Traditional Trade,4,True,4,80.0,1,Medium,Short-term Credit (1-7 Days),Proprietary Fleet,3,False,2,$20M+
+basigo,2,Asset-Heavy,Traditional Trade,5,True,5,95.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,2,True,2,$1M-$5M
+sendy,3,Asset-Light,Traditional Trade,3,False,4,30.0,1,Medium,Cash on Delivery (COD),Aggregated 3PL,3,False,2,$1M-$5M
+kopo_kopo,3,Asset-Light,Traditional Trade,5,True,5,90.0,3,High,Short-term Credit (1-7 Days),Aggregated 3PL,3,False,2,$5M-$20M
