@@ -16,3 +16,5 @@ wasoko,Wasoko,Nairobi,E-commerce,B2B,False,Low,Underpricing,Agtech / Food Logist
 basigo,BasiGo,Nairobi,Transactional,B2B,False,Low,Value-Based,Mobility / Transport,2,B2B Institutional,38,False,True,STEM / Engineering,True,False,False
 sendy,Sendy,Nairobi,Marketplace,B2B,False,High,Underpricing,Mobility / Transport,3,B2B Institutional,26,False,False,STEM / Engineering,False,False,False
 kopo_kopo,Kopo Kopo,Nairobi,Transactional,B2B,False,Low,Value-Based,Fintech,2,B2B Institutional,26,False,True,Business / Finance,False,False,False
+shoprite_ug,Shoprite Uganda,Kampala,Traditional Retail,B2C,True,Low,Cost-Plus,E-commerce / Retail,1,High Income (>1M UGX/mo),40,False,True,Business / Finance,True,True,False
+

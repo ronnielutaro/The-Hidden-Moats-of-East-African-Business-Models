@@ -16,3 +16,5 @@ wasoko,3,Asset-Heavy,Traditional Trade,4,True,4,80.0,1,Medium,Short-term Credit 
 basigo,2,Asset-Heavy,Traditional Trade,5,True,5,95.0,3,Medium,Long-term Credit (30+ Days),Proprietary Fleet,2,True,2,$1M-$5M
 sendy,3,Asset-Light,Traditional Trade,3,False,4,30.0,1,Medium,Cash on Delivery (COD),Aggregated 3PL,3,False,2,$1M-$5M
 kopo_kopo,3,Asset-Light,Traditional Trade,5,True,5,90.0,3,High,Short-term Credit (1-7 Days),Aggregated 3PL,3,False,2,$5M-$20M
+shoprite_ug,3,Asset-Heavy,Modern Trade,4,False,5,45.0,3,Medium,Cash on Delivery (COD),Merchant Pickup,2,False,1,$20M+
+
