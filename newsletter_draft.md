@@ -114,6 +114,6 @@ Here is a look at how our cohort maps across the Transaction vs. Visibility Matr
 
 If you are building or investing in the East African Community (EAC), are you relying on pure-play software models, or are you actively anchoring your technology into physical distribution and transaction rails?
 
-We have open-sourced the underlying relational database for this edition. You can access the raw CSVs, audit the feature engineering script, and run the survival curves yourself on our GitHub repository: [GitHub: EAC-Business-Models](file:///G:/My%20Drive/18_Market%20Intelligence%20Newsletter/The-Hidden-Moats-of-East-African-Business-Models)
+We have open-sourced the underlying relational database for this edition. You can access the raw CSVs, audit the feature engineering script, and run the survival curves yourself on our GitHub repository: [GitHub: ronnielutaro/The-Hidden-Moats-of-East-African-Business-Models](https://github.com/ronnielutaro/The-Hidden-Moats-of-East-African-Business-Models)
 
 Let’s discuss below!
