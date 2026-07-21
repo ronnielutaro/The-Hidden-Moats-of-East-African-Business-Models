@@ -22,6 +22,13 @@ Defines the unchanging core attributes of each business entity.
 | **industry_sector** | categorical | | Domain economic sector | `Fintech`, `Agtech / Food Logistics`, `Mobility / Transport`, `Healthtech`, `FMCG / Manufacturing`, `Proptech / E-commerce`, `E-commerce / Retail` | `Fintech` |
 | **founder_count** | integer | | Number of co-founders at founding | Integer (1, 2, 3, 4+) | `2` |
 | **target_income_tier** | categorical | | Target consumer/client economic bracket | `Low Income (<150k UGX/mo)`, `Middle Income (150k-1M UGX/mo)`, `High Income (>1M UGX/mo)`, `B2B Institutional` | `Low Income (<150k UGX/mo)` |
+| **founder_avg_age_at_inception** | integer | | Average age of founder(s) at company launch | Integer | `28` |
+| **started_in_university** | boolean | | Founded while active in university | `True`, `False` | `False` |
+| **diaspora_exposure** | boolean | | Founder lived, studied, or worked abroad/diaspora | `True`, `False` | `True` |
+| **founder_academic_background** | categorical | | Domain background of founder team | `STEM / Engineering`, `Business / Finance`, `Humanities / Other`, `No Degree` | `Business / Finance` |
+| **founder_domain_expertise** | boolean | | Founder worked in same industry prior to launch | `True`, `False` | `True` |
+| **founder_prior_exit_success**| boolean | | Founder previously built a successful exit | `True`, `False` | `False` |
+| **founder_prior_failure_exp** | boolean | | Founder previously built a failed venture | `True`, `False` | `False` |
 
 ---
 

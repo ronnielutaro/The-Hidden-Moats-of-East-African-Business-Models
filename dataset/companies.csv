@@ -1,18 +1,18 @@
-company_id,company_name,hq_location,primary_model,target_segment,cold_chain_requirement,disintermediation_risk,pricing_strategy,industry_sector,founder_count,target_income_tier
-mtn_momo,MTN MoMo,Kampala,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Low Income (<150k UGX/mo)
-safeboda,SafeBoda,Kampala,Marketplace,B2C,False,High,Underpricing,Mobility / Transport,3,Middle Income (150k-1M UGX/mo)
-jesa_dairy,Jesa Farm Dairy,Kampala,FMCG Manufacturing,B2B2C,True,Low,Value-Based,FMCG / Manufacturing,1,Middle Income (150k-1M UGX/mo)
-lipa_later,Lipa Later,Nairobi,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Middle Income (150k-1M UGX/mo)
-rocket_health,Rocket Health,Kampala,Marketplace,B2C,True,Medium,Value-Based,Healthtech,4,Middle Income (150k-1M UGX/mo)
-jumia_ug,Jumia Uganda,Kampala,Marketplace,B2C,False,Medium,Underpricing,E-commerce / Retail,2,Middle Income (150k-1M UGX/mo)
-copia_global,Copia Global,Nairobi,E-commerce,B2C,False,Low,Underpricing,E-commerce / Retail,2,Low Income (<150k UGX/mo)
-mukwano,Mukwano Industries,Kampala,FMCG Manufacturing,B2B2C,False,Low,Cost-Plus,FMCG / Manufacturing,1,Low Income (<150k UGX/mo)
-kuzimba,Kuzimba Services,Kampala,Marketplace,B2B,False,High,Cost-Plus,Proptech / E-commerce,2,B2B Institutional
-airtel_money,Airtel Money,Nairobi,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Low Income (<150k UGX/mo)
-tugende,Tugende,Kampala,Transactional,B2C,False,Low,Value-Based,Mobility / Transport,1,Low Income (<150k UGX/mo)
-m_kopa,M-KOPA,Nairobi,Transactional,B2C,False,Low,Value-Based,Fintech,3,Low Income (<150k UGX/mo)
-twiga_foods,Twiga Foods,Nairobi,E-commerce,B2B,True,Low,Value-Based,Agtech / Food Logistics,2,B2B Institutional
-wasoko,Wasoko,Nairobi,E-commerce,B2B,False,Low,Underpricing,Agtech / Food Logistics,1,B2B Institutional
-basigo,BasiGo,Nairobi,Transactional,B2B,False,Low,Value-Based,Mobility / Transport,2,B2B Institutional
-sendy,Sendy,Nairobi,Marketplace,B2B,False,High,Underpricing,Mobility / Transport,3,B2B Institutional
-kopo_kopo,Kopo Kopo,Nairobi,Transactional,B2B,False,Low,Value-Based,Fintech,2,B2B Institutional
+company_id,company_name,hq_location,primary_model,target_segment,cold_chain_requirement,disintermediation_risk,pricing_strategy,industry_sector,founder_count,target_income_tier,founder_avg_age_at_inception,started_in_university,diaspora_exposure,founder_academic_background,founder_domain_expertise,founder_prior_exit_success,founder_prior_failure_exp
+mtn_momo,MTN MoMo,Kampala,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Low Income (<150k UGX/mo),35,False,False,Business / Finance,True,False,False
+safeboda,SafeBoda,Kampala,Marketplace,B2C,False,High,Underpricing,Mobility / Transport,3,Middle Income (150k-1M UGX/mo),28,False,True,Business / Finance,True,False,False
+jesa_dairy,Jesa Farm Dairy,Kampala,FMCG Manufacturing,B2B2C,True,Low,Value-Based,FMCG / Manufacturing,1,Middle Income (150k-1M UGX/mo),38,False,False,Business / Finance,True,True,False
+lipa_later,Lipa Later,Nairobi,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Middle Income (150k-1M UGX/mo),25,False,True,Business / Finance,False,False,False
+rocket_health,Rocket Health,Kampala,Marketplace,B2C,True,Medium,Value-Based,Healthtech,4,Middle Income (150k-1M UGX/mo),27,False,False,STEM / Engineering,True,False,False
+jumia_ug,Jumia Uganda,Kampala,Marketplace,B2C,False,Medium,Underpricing,E-commerce / Retail,2,Middle Income (150k-1M UGX/mo),30,False,True,Business / Finance,True,True,False
+copia_global,Copia Global,Nairobi,E-commerce,B2C,False,Low,Underpricing,E-commerce / Retail,2,Low Income (<150k UGX/mo),40,False,True,Business / Finance,True,True,False
+mukwano,Mukwano Industries,Kampala,FMCG Manufacturing,B2B2C,False,Low,Cost-Plus,FMCG / Manufacturing,1,Low Income (<150k UGX/mo),35,False,False,Business / Finance,True,True,False
+kuzimba,Kuzimba Services,Kampala,Marketplace,B2B,False,High,Cost-Plus,Proptech / E-commerce,2,B2B Institutional,24,True,False,STEM / Engineering,False,False,False
+airtel_money,Airtel Money,Nairobi,Transactional,B2B2C,False,Low,Value-Based,Fintech,2,Low Income (<150k UGX/mo),35,False,False,Business / Finance,True,False,False
+tugende,Tugende,Kampala,Transactional,B2C,False,Low,Value-Based,Mobility / Transport,1,Low Income (<150k UGX/mo),27,False,True,Humanities / Other,False,False,False
+m_kopa,M-KOPA,Nairobi,Transactional,B2C,False,Low,Value-Based,Fintech,3,Low Income (<150k UGX/mo),38,False,True,STEM / Engineering,True,True,False
+twiga_foods,Twiga Foods,Nairobi,E-commerce,B2B,True,Low,Value-Based,Agtech / Food Logistics,2,B2B Institutional,36,False,True,Business / Finance,True,False,False
+wasoko,Wasoko,Nairobi,E-commerce,B2B,False,Low,Underpricing,Agtech / Food Logistics,1,B2B Institutional,22,True,True,STEM / Engineering,False,False,False
+basigo,BasiGo,Nairobi,Transactional,B2B,False,Low,Value-Based,Mobility / Transport,2,B2B Institutional,38,False,True,STEM / Engineering,True,False,False
+sendy,Sendy,Nairobi,Marketplace,B2B,False,High,Underpricing,Mobility / Transport,3,B2B Institutional,26,False,False,STEM / Engineering,False,False,False
+kopo_kopo,Kopo Kopo,Nairobi,Transactional,B2B,False,Low,Value-Based,Fintech,2,B2B Institutional,26,False,True,Business / Finance,False,False,False

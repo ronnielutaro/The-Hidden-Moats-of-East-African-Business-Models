@@ -48,6 +48,35 @@ To quantitatively audit business models across the East African Community (EAC) 
 * **Allowed Values:** `Low Income (<150k UGX/mo)`, `Middle Income (150k-1M UGX/mo)`, `High Income (>1M UGX/mo)`, `B2B Institutional`
 * **Logic:** Economic purchasing power bracket of the target consumer or business customer (aligned with UBOS household surveys).
 
+#### `founder_avg_age_at_inception`
+* **Data Type:** Integer
+* **Logic:** Average age of the founding team when launching the company.
+
+#### `started_in_university`
+* **Data Type:** Boolean (`True`/`False`)
+* **Logic:** Tracks if the startup was launched while founders were active university students.
+
+#### `diaspora_exposure`
+* **Data Type:** Boolean (`True`/`False`)
+* **Logic:** Tracks if key founders lived, studied, or worked abroad in the diaspora prior to launch.
+
+#### `founder_academic_background`
+* **Data Type:** Categorical
+* **Allowed Values:** `STEM / Engineering`, `Business / Finance`, `Humanities / Other`, `No Degree / Self-Taught`
+* **Logic:** Primary academic background domain of the founding team.
+
+#### `founder_domain_expertise`
+* **Data Type:** Boolean (`True`/`False`)
+* **Logic:** Tracks if founders had direct prior work experience in the target industry sector.
+
+#### `founder_prior_exit_success`
+* **Data Type:** Boolean (`True`/`False`)
+* **Logic:** Tracks if founders previously built a venture resulting in a successful exit or profitable scale.
+
+#### `founder_prior_failure_exp`
+* **Data Type:** Boolean (`True`/`False`)
+* **Logic:** Tracks if founders previously founded a venture that shut down or failed.
+
 ---
 
 ### 2. Financial Velocity & Scale Architecture
