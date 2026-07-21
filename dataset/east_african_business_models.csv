@@ -1,0 +1,13 @@
+company_id,company_name,hq_location,primary_model,target_segment,proximity_to_transaction,revenue_type,payment_collection_frequency,funding_archetype,estimated_scale_tier,distribution_channel_mix,route_to_market_ops,cold_chain_requirement,switching_cost_moat,supply_chain_visibility,lifespan_years,survival_status,regulatory_barrier_level,exit_outcome,gross_margin_tier,disintermediation_risk,pricing_strategy,customer_retention_rate_annual
+mtn_momo,MTN MoMo,Kampala,Transactional,B2B2C,5,Usage-Based,One-Off,Bootstrapped/Profitable,3,Traditional Trade,Asset-Light,False,True,5,15.0,Active,5,Active,High,Low,Value-Based,95.0
+safeboda,SafeBoda,Kampala,Marketplace,B2C,5,Usage-Based,One-Off,Venture Backed,3,Traditional Trade,Asset-Light,False,False,5,9.0,Active,3,Active,High,High,Underpricing,40.0
+jesa_dairy,Jesa Farm Dairy,Kampala,FMCG Manufacturing,B2B2C,3,One-Off,One-Off,Bootstrapped/Profitable,3,Modern Trade + Traditional Trade,Asset-Heavy,True,False,1,25.0,Active,5,Active,Low,Low,Value-Based,90.0
+lipa_later,Lipa Later,Nairobi,Transactional,B2B2C,5,Usage-Based,Manual Push,Venture Backed,2,Modern Trade,Asset-Light,False,True,5,7.0,Active,3,Active,High,Low,Value-Based,85.0
+rocket_health,Rocket Health,Kampala,Marketplace,B2C,5,Usage-Based,One-Off,Venture Backed,2,Direct-to-Consumer (D2C),Asset-Heavy,True,True,5,11.0,Active,5,Active,High,Medium,Value-Based,65.0
+jumia_ug,Jumia Uganda,Kampala,Marketplace,B2C,5,Usage-Based,One-Off,Venture Backed,2,Modern Trade + Traditional Trade,Asset-Light,False,False,3,12.0,Active,3,Active,High,Medium,Underpricing,35.0
+copia_global,Copia Global,Nairobi,E-commerce,B2C,4,One-Off,One-Off,Venture Backed,3,Traditional Trade,Asset-Heavy,False,False,3,11.0,Failed,3,Shut Down,Medium,Low,Underpricing,25.0
+mukwano,Mukwano Industries,Kampala,FMCG Manufacturing,B2B2C,3,One-Off,One-Off,Bootstrapped/Profitable,3,B2B Wholesaler Push + Traditional Trade,Asset-Heavy,False,False,1,40.0,Active,5,Active,Low,Low,Cost-Plus,95.0
+kuzimba,Kuzimba Services,Kampala,Marketplace,B2B,3,Usage-Based,One-Off,Bootstrapped/Profitable,1,Traditional Trade,Asset-Light,False,False,2,4.0,Active,1,Active,High,High,Cost-Plus,30.0
+airtel_money,Airtel Money,Nairobi,Transactional,B2B2C,5,Usage-Based,One-Off,Bootstrapped/Profitable,3,Traditional Trade,Asset-Light,False,True,5,15.0,Active,5,Active,High,Low,Value-Based,95.0
+tugende,Tugende,Kampala,Transactional,B2C,5,Usage-Based,Manual Push,Venture Backed,2,Traditional Trade,Asset-Heavy,False,True,3,12.0,Pivoted,3,Active,Medium,Low,Value-Based,80.0
+m_kopa,M-KOPA,Nairobi,Transactional,B2C,5,Usage-Based,Manual Push,Venture Backed,3,Traditional Trade,Asset-Heavy,False,True,5,15.0,Active,3,Active,Medium,Low,Value-Based,85.0

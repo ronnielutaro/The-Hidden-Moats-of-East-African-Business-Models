@@ -1,0 +1,43 @@
+company_id,event_type,year,details
+safeboda,Launch,2014,Launched bike-hailing service in Kampala
+safeboda,Expansion,2018,Expanded operations to Nairobi (Kenya)
+safeboda,Pivot,2020,Launched food delivery and cashless wallet payments
+safeboda,Restructure,2020,Exited Nairobi (Kenya) due to regulatory and margin friction
+safeboda,Expansion,2021,Expanded to Ibadan (Nigeria)
+safeboda,Restructure,2023,Suspended operations in Nigeria to focus entirely on Kampala market
+tugende,Launch,2012,Launched lease-to-own motorcycle model in Uganda
+tugende,Expansion,2019,Expanded operations to Kenya
+tugende,Pivot,2021,Expanded product portfolio into boat engines and solar financing
+tugende,Restructure,2023,Restructured debt obligations due to currency depreciation
+copia_global,Launch,2013,Launched e-commerce service for rural consumers in Kenya
+copia_global,Expansion,2021,Expanded operations to Uganda
+copia_global,Restructure,2023,Closed Uganda operations to preserve capital runway
+copia_global,Shutdown,2024,Declared insolvency and ceased operations in Kenya
+m_kopa,Launch,2011,Launched pay-as-you-go solar home systems in Kenya
+m_kopa,Expansion,2013,Expanded operations to Uganda
+m_kopa,Pivot,2019,Pivoted core engine to B2C mobile smartphone financing
+m_kopa,Expansion,2022,Expanded operations to Nigeria
+rocket_health,Launch,2015,Launched telemedicine and lab sample collection services
+rocket_health,Expansion,2021,Expanded services to Nairobi (Kenya)
+jesa_dairy,Launch,2001,Established processing plant in Busunju (Uganda)
+mukwano,Launch,1986,Established manufacturing operations in Kampala
+jumia_ug,Launch,2014,Launched e-commerce marketplace in Uganda
+airtel_money,Launch,2011,Launched mobile money rail in Kenya/Uganda
+mtn_momo,Launch,2011,Launched mobile money rail in Uganda
+kuzimba,Launch,2022,Launched digital matching marketplace for construction materials
+lipa_later,Launch,2018,Launched consumer credit and buy-now-pay-later platform in Nairobi
+lipa_later,Expansion,2021,Expanded consumer finance operations to Uganda/Rwanda
+twiga_foods,Launch,2014,Launched farm-to-retail B2B e-commerce platform in Nairobi
+twiga_foods,Expansion,2018,Expanded logistics supply chain footprint and built modern distribution centers
+twiga_foods,Restructure,2023,Laid off staff and restructured regional logistics warehousing model
+wasoko,Launch,2016,Launched B2B wholesale retail ordering platform in Nairobi
+wasoko,Expansion,2021,Expanded geographical footprint to Uganda Tanzania and Rwanda
+wasoko,Restructure,2024,Merged operations with Egypt-based MaxAB and restructured regional logistics
+basigo,Launch,2021,Launched pay-as-you-drive electric bus financing in Nairobi
+basigo,Expansion,2023,Expanded fleet and charging hub infrastructure across Kenya
+sendy,Launch,2014,Launched peer-to-peer courier and logistics matching platform in Nairobi
+sendy,Pivot,2021,Pivoted model from matching courier to e-commerce fulfillment and warehousing
+sendy,Restructure,2022,Downsized operational workforce and scaled back expansion plans
+sendy,Shutdown,2023,Declared insolvency and suspended all logistics operations
+kopo_kopo,Launch,2011,Launched merchant paybill payment aggregation service in Nairobi
+kopo_kopo,Pivot,2016,Pivoted to merchant cash advance and credit financing for small businesses

@@ -1,0 +1,6 @@
+company_name,hq_location,primary_model,target_segment,proximity_to_transaction,revenue_type,funding_archetype,estimated_scale_tier,distribution_channel_mix,route_to_market_ops,cold_chain_requirement,switching_cost_moat,supply_chain_visibility
+MTN/Airtel MoMo,Kampala,Transactional,B2B2C,5,Usage-Based,Bootstrapped/Profitable,3,Traditional Trade,Asset-Light,False,True,5
+SafeBoda,Kampala,Marketplace,B2C,5,Usage-Based,Venture Backed,3,Traditional Trade,Asset-Light,False,False,5
+Jesa Farm Dairy,Kampala,FMCG Manufacturing,B2B2C,3,One-Off,Bootstrapped/Profitable,3,Modern Trade + Traditional Trade,Asset-Heavy,True,False,1
+Lipa Later,Nairobi,Transactional,B2B2C,5,Usage-Based,Venture Backed,2,Modern Trade,Asset-Light,False,True,5
+Rocket Health,Kampala,Marketplace,B2C,5,Usage-Based,Venture Backed,2,Direct-to-Consumer (D2C),Asset-Heavy,True,True,5

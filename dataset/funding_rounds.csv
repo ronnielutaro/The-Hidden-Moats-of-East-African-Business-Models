@@ -1,0 +1,44 @@
+company_id,round_type,amount_usd,year
+safeboda,Seed,250000,2014
+safeboda,Series A,1100000,2016
+safeboda,Series B,18000000,2019
+lipa_later,Seed,1200000,2018
+lipa_later,Pre-Series A,5000000,2020
+lipa_later,Debt + Equity,12000000,2022
+rocket_health,Grant,120000,2015
+rocket_health,Seed,1200000,2018
+rocket_health,Series A,4300000,2022
+jumia_ug,Corporate Allocation,10000000,2014
+copia_global,Series A,2000000,2015
+copia_global,Series B,26000000,2019
+copia_global,Series C,75000000,2022
+copia_global,Debt,4000000,2023
+kuzimba,Grant,50000,2022
+tugende,Seed,300000,2014
+tugende,Series A,6300000,2019
+tugende,Debt + Equity,28000000,2021
+m_kopa,Seed,2000000,2011
+m_kopa,Series A,20000000,2013
+m_kopa,Debt + Equity,75000000,2020
+m_kopa,Growth Debt,250000000,2023
+mtn_momo,Corporate Allocation,5000000,2011
+airtel_money,Corporate Allocation,5000000,2011
+jesa_dairy,Debt,2000000,2010
+mukwano,Debt,5000000,2005
+twiga_foods,Seed,2000000,2015
+twiga_foods,Series A,10000000,2017
+twiga_foods,Series B,30000000,2019
+twiga_foods,Series C,50000000,2021
+wasoko,Seed,2000000,2018
+wasoko,Series A,18000000,2020
+wasoko,Series B,125000000,2022
+basigo,Seed,900000,2021
+basigo,Seed Expansion,6600000,2022
+basigo,Series A,10000000,2024
+sendy,Seed,2000000,2015
+sendy,Series A,20000000,2020
+sendy,Debt,5000000,2022
+kopo_kopo,Seed,100000,2012
+kopo_kopo,Series A,2100000,2013
+kopo_kopo,Series B,5000000,2015
+kopo_kopo,Corporate Allocation,3000000,2023

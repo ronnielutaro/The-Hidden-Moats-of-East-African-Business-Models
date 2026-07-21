@@ -1,0 +1,18 @@
+company_id,company_name,hq_location,primary_model,target_segment,cold_chain_requirement,disintermediation_risk,pricing_strategy
+mtn_momo,MTN MoMo,Kampala,Transactional,B2B2C,False,Low,Value-Based
+safeboda,SafeBoda,Kampala,Marketplace,B2C,False,High,Underpricing
+jesa_dairy,Jesa Farm Dairy,Kampala,FMCG Manufacturing,B2B2C,True,Low,Value-Based
+lipa_later,Lipa Later,Nairobi,Transactional,B2B2C,False,Low,Value-Based
+rocket_health,Rocket Health,Kampala,Marketplace,B2C,True,Medium,Value-Based
+jumia_ug,Jumia Uganda,Kampala,Marketplace,B2C,False,Medium,Underpricing
+copia_global,Copia Global,Nairobi,E-commerce,B2C,False,Low,Underpricing
+mukwano,Mukwano Industries,Kampala,FMCG Manufacturing,B2B2C,False,Low,Cost-Plus
+kuzimba,Kuzimba Services,Kampala,Marketplace,B2B,False,High,Cost-Plus
+airtel_money,Airtel Money,Nairobi,Transactional,B2B2C,False,Low,Value-Based
+tugende,Tugende,Kampala,Transactional,B2C,False,Low,Value-Based
+m_kopa,M-KOPA,Nairobi,Transactional,B2C,False,Low,Value-Based
+twiga_foods,Twiga Foods,Nairobi,E-commerce,B2B,True,Low,Value-Based
+wasoko,Wasoko,Nairobi,E-commerce,B2B,False,Low,Underpricing
+basigo,BasiGo,Nairobi,Transactional,B2B,False,Low,Value-Based
+sendy,Sendy,Nairobi,Marketplace,B2B,False,High,Underpricing
+kopo_kopo,Kopo Kopo,Nairobi,Transactional,B2B,False,Low,Value-Based
